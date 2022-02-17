@@ -1,0 +1,5 @@
+Read a,b
+set numa to a*a
+set numb to b*b 
+set result to numa + numb
+print result 
